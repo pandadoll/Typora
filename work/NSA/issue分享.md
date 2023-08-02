@@ -6,11 +6,11 @@
 
   基站添加邻区后，L3 log没有打印建立X2的信令
 
-![image-20230721152851867](../picture/image-20230721152851867.png)
+![image-20230721152851867](E:\Typora\picture\image-20230721152851867-1690944275310-1.png)
 
 ​		从oamv1中观察到两个站X2建立情况异常
 
-![image-20230721152629898](../picture/image-20230721152629898.png)
+![image-20230721152629898](E:\Typora\picture\image-20230721152629898-1690944284191-3.png)
 
 - 正常建立X2的流程
 
@@ -54,7 +54,7 @@
 
 - 抓包观察SCTP和X2连接建立过程：
 
-![image-20230721152218068](../picture/image-20230721152218068.png)
+![image-20230721152218068](E:\Typora\picture\image-20230721152218068-1690944289405-5.png)
 
 
 
@@ -64,7 +64,7 @@
 
 - 现象：基站从BW 5M，Reference Signal Power -4修改到BW 20M后，Reference Signal Power维持-4不变，txpower（30）超出范围（最大24dBm）
 
-![image-20230721154226036](../picture/image-20230721154226036.png)
+![image-20230721154226036](E:\Typora\picture\image-20230721154226036-1690944290925-7.png)
 
 - 分析：
 
