@@ -16,7 +16,7 @@
 
 示例截图：
 
-![image-20230712164016675](E:\Program Files\Typora\picture\image-20230712164016675.png)
+![image-20230712164016675](E:\Typora\picture\image-20230712164016675-1690944472138-11.png)
 
 ### c.创建bat文件，写入参数
 
@@ -54,11 +54,11 @@
 
 出现以下异常情况时，将命令中的==“-batch”去掉==，在cmd执行一次
 
-![image-20230712165500508](E:\Program Files\Typora\picture\image-20230712165500508.png)
+![image-20230712165500508](E:\Typora\picture\image-20230712165500508-1690944498289-13.png)
 
 在此处写入y，成功后退出
 
-![image-20230712165812442](E:\Program Files\Typora\picture\image-20230712165812442.png)
+![image-20230802104907597](E:\Typora\picture\image-20230802104907597-1690944583349-15.png)
 
 之后可以正常执行抓包命令抓包
 
