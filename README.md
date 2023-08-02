@@ -1,1 +1,4 @@
 # Typora
+[toc]
+# first
+## second
